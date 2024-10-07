@@ -1,0 +1,48 @@
+/* h1{
+    background-color: red;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 25px;
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+
+}
+
+form{
+    font-size: 25px;
+    padding-right: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 5px;
+    display: inline-flex;
+    flex-direction: column;
+}
+ */
+
+*{
+    color: white;
+    text-align: center;
+}
+ .ravi{
+    background-color: red;
+}
+
+.subhan{
+    background-color: blue;
+}
+
+.murtuz{
+    background-color: yellow;
+}
+
+#raj{
+    background-color: springgreen;
+}
+
+#pradeep{
+    background-color: brown;
+}
